@@ -1,0 +1,11 @@
+Model Information:
+* title:	366 Armchair
+* source:	https://sketchfab.com/3d-models/366-armchair-97e53f749df14e8c9de7a22bf99be753
+* author:	hectopod (https://sketchfab.com/hectopod)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "366 Armchair" (https://sketchfab.com/3d-models/366-armchair-97e53f749df14e8c9de7a22bf99be753) by hectopod (https://sketchfab.com/hectopod) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
